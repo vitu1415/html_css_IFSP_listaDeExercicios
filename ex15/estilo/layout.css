@@ -1,0 +1,17 @@
+table, th, td {
+    border:1px solid black;
+}
+
+.tabela__pircipal{
+    color: blue;
+}
+.tabela__nome{
+    background-color: pink;
+}
+.tabela__meio{
+    text-align: center;
+    background-color: yellow;
+}
+.tabela__final{
+    background-color: red;
+}

@@ -1,0 +1,21 @@
+section{
+    max-width: 610px;
+}
+
+.d1{
+    width: 415px;
+}
+
+.d2{
+    width: 75px;
+}
+
+#th1{
+    background-color: rgb(72, 193, 253);
+    width: 60%;
+}
+
+#th2{
+    background-color: rgb(1, 30, 251);
+    width: 200px;
+}

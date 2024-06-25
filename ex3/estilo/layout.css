@@ -1,0 +1,7 @@
+fieldset {
+  display: inline-block;
+}
+
+.secao__interna{
+  padding-top: 25px;
+}

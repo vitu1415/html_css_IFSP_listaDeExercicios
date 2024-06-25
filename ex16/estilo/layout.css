@@ -1,0 +1,14 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+
+.secao__web{
+    display: grid;
+    grid-template-columns: 15% 85%;
+    border-block-end:5px solid black;
+}
+
+.secao__texto{
+    margin: 5% 0;
+}
